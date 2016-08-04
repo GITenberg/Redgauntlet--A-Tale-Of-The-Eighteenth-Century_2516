@@ -1,0 +1,50 @@
+_repo: Redgauntlet--A-Tale-Of-The-Eighteenth-Century_2516
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "Redgauntlet (1824) is a historical novel by Sir Walter Scott, set in\
+  \ Dumfries, Scotland in 1765, and described by Magnus Magnusson (a point first made\
+  \ by Andrew Lang) as \"in a sense, the most autobiographical of Scott's novels.\"\
+  \ It describes the beginnings of a fictional third Jacobite Rebellion, and includes\
+  \ \"Wandering Willie's Tale\", a famous short story which frequently appears in\
+  \ anthologies.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2516'
+  wikidata: Q3422871
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Charles Edward, Prince, grandson of James II, King of England, 1720-1788
+  -- Fiction'
+- !lcsh 'Law students -- Fiction'
+- !lcsh 'Jacobites -- Fiction'
+- !lcsh 'Scotland -- History -- 18th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Princes -- Fiction'
+- GITenberg
+title: 'Redgauntlet: A Tale Of The Eighteenth Century'
+url: http://www.gutenberg.org/ebooks/2516
+wikipedia:
+- https://fr.wikipedia.org/wiki/Redgauntlet
+- https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D8%AF_%D8%BA%D9%88%D9%86%D8%AA%D9%84%D9%8A%D8%AA
+- https://en.wikipedia.org/wiki/Redgauntlet
+- https://hy.wikipedia.org/wiki/%D5%8C%D5%A5%D5%A4%D5%A3%D5%B8%D5%B6%D5%A3%D5%AC%D5%A5%D5%BF
+- https://it.wikipedia.org/wiki/Redgauntlet
+- https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%B3%D0%BE%D0%BD%D1%82%D0%BB%D0%B5%D1%82
