@@ -1,5 +1,8 @@
 _repo: Redgauntlet--A-Tale-Of-The-Eighteenth-Century_2516
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -19,6 +22,8 @@ description: "Redgauntlet (1824) is a historical novel by Sir Walter Scott, set 
   \ It describes the beginnings of a fictional third Jacobite Rebellion, and includes\
   \ \"Wandering Willie's Tale\", a famous short story which frequently appears in\
   \ anthologies.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2516#Redgauntlet--A-Tale-Of-The-Eighteenth-Century
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
